@@ -2,9 +2,9 @@ const axios = require('axios');
 const FormData = require('form-data');
 const fs = require('fs');
 
-const videoFilePath = 'D:/montagne.mp4';
+const videoFilePath = '';
 
-const videoFileName = '.mp4';
+const videoFileName = '';
 
 const uploadUrl = 'https://en3.uqload.to/upload/01?X-Progress-ID=XXXX';
 
